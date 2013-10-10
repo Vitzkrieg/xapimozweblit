@@ -1,0 +1,12 @@
+/*
+    Document   : admin
+    Created on : Oct 8, 2013, 10:23:23 PM
+    Author     : Dustin Vietzke
+    Description:
+        Style the admin side of the site.
+*/
+
+#menu-posts-xapimozweblit a #wp-menu-image {
+	background: url(/wp-content/plugins/xapimozweblit/images/32px-WebLitStd-avatar.png);
+}
+
